@@ -1,5 +1,6 @@
 # Liana_decay_experiment1
 This R script records Njoroge et al 2024 field experiment examining the effect of woody debris size, soil fauna status and phylogenetic signals on liana wood decomposition. The experiment was carried out in Xishuangbanna Tropical Botanical Garden, Chinese Academy of Sciences (XTBG, CAS) in a common garden. In the experiment 30 species of lianas were used (see below for the phylogeny tree). To test for the diameter effect, we used woody debris of two diameter classes with median of 2.0 cm and 4.0 cm. To test for soil fauna effect, we used litterbags of different mesh sizes to include or exclude soil fauna based on their size. We measured thirteen initial chemical traits including carbon, nitrogen, lignin, etc. from both wood and bark.
+Pleace cite this [![DOI](https://zenodo.org/badge/878950235.svg)](https://doi.org/10.5281/zenodo.14189139)
 
 
 This contains multiple files of with the data files are described below. 
